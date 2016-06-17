@@ -1,0 +1,11 @@
+# Node Modules
+/node_modules
+
+# Babel Transpiled Code
+bundle.js
+
+#Debug
+npm-debug.log
+
+# OpenWeatherMap
+.env
