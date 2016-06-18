@@ -12,3 +12,6 @@ npm-debug.log
 
 # Desktop Services Store
 .DS_Store
+
+# Environment Variables
+.env
