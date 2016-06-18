@@ -4,8 +4,11 @@
 # Babel Transpiled Code
 bundle.js
 
-#Debug
+# Debug
 npm-debug.log
 
 # OpenWeatherMap
 .env
+
+# Desktop Services Store
+.DS_Store
