@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
+import { GoogleMapLoader, GoogleMap } from 'react-google-maps';
 
 import Chart from './../components/chart';
 
